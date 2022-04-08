@@ -34,7 +34,7 @@ function App() {
       content: "Lorem ipssum dolor sit amet 5",
     },
   ];
-  return <HorizontalSlideShow slides={slidees} />;
+  return <HorizontalSlideShow slides={slides} />;
 }
 
 export default App;
