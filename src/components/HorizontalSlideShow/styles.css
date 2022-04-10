@@ -130,6 +130,12 @@ body {
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .slide {
+    min-width: 300px;
+  }
+}
+
 /* ===== ANIMATION ===== */
 @-webkit-keyframes slideToLeft {
   from {
